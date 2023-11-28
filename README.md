@@ -8,6 +8,8 @@
 
 Рабочую версию можно посмотреть на [GitHub Pages](https://yomche.github.io/github-user-search-app/)
 
+![](public/screen.png)
+
 ### Установка
 
 Первый запуск 
